@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a test application that allows a user to send a push notification using a form in the browser. It uses [Pushover](https://pushover.net/) and [pushover-notifications](https://github.com/qbit/node-pushover) for Node to send the messages between the server and the client.
+This is a test application that allows a user to send a push notification using a form in the browser. It uses [Pushover](https://pushover.net/) and [pushover-notifications](https://github.com/qbit/node-pushover) package for Node to send the messages between the server and the client.
 
 ## Thoughts
 
